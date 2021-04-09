@@ -14,7 +14,7 @@ SMPTE Time Code Chase to external reference.
 
 Speed/pitch control of transport.
 
-**Current Status:**
+**Current Status:** brian was here
 
 Midi control over all of the stuff controlled by the serial port for these devices has already been finished. You may want to change the CC's to something more useful by you, as they were setup to be most useful with my MIDI controller.
 
